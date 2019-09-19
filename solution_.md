@@ -7,3 +7,8 @@
 bla bla bla some text explaining the reason for this plot and were the data comes from
 
 ![alt text](thefigure.png "Wow...")
+
+
+# The code
+
+``` Hi ```
